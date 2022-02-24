@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Yomana from './Yomana';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <p>
           Learn Salsa with React.js
         </p>
+        <Yomana/>
         <a
           className="App-link"
           href="https://reactjs.org"
